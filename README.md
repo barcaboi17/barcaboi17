@@ -169,19 +169,6 @@ Designed a complete NLP pipeline from raw text to classification. Explored multi
 
 ---
 
-## 💼 Experience
-
-### 📌 Data Science Intern &nbsp;·&nbsp; *[Company Name]*
-`Month Year` — `Month Year` &nbsp;|&nbsp; Remote / Delhi, India
-
-Contributed to real-world data analysis and model development in a fast-paced environment. Gained hands-on experience in the full data science lifecycle from raw data ingestion to model deployment support.
-
-- Performed exploratory data analysis on structured datasets exceeding 100K rows
-- Built and validated predictive models using Scikit-learn with cross-validation
-- Automated data cleaning workflows using Pandas, reducing processing time by 40%
-- Created visual dashboards and reports to communicate findings to non-technical stakeholders
-
-`Python` `Pandas` `Scikit-learn` `SQL` `Matplotlib` `Jupyter`
 
 ---
 
