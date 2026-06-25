@@ -172,64 +172,7 @@ Designed a complete NLP pipeline from raw text to classification. Explored multi
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-
-| 🏅 Recognition | 📋 Details |
-|:---:|:---:|
-| **Kaggle Competitions** | Participated in multiple ML challenges, top 30% ranking |
-| **GitHub Repositories** | Consistent open-source contributions with documented notebooks |
-| **Academic Excellence** | Strong CGPA with focus in Statistics and Machine Learning coursework |
-| **Problem Solving** | Active on LeetCode and HackerRank — Data Structures & Algorithms |
-| **Community Learning** | Completed structured ML learning paths on Coursera & Kaggle Learn |
-
-</p>
-
----
-
-## 📜 Certifications
-
-### 🟡 Google / Coursera
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Andrew%20Ng%20%7C%20Coursera-4285F4?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-### 🔵 Kaggle Learn
-<p>
-  <img src="https://img.shields.io/badge/Python-Kaggle%20Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Kaggle%20Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intro%20to%20ML-Kaggle%20Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</p>
-
-### 🟠 NPTEL
-<p>
-  <img src="https://img.shields.io/badge/Data%20Science%20for%20Engineers-NPTEL%20%7C%20IIT-FF6B35?style=for-the-badge&logo=data&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Programming%20in%20Python-NPTEL-FF6B35?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/barcaboi17">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/barcaboi17">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/barcaboi17">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/barcaboi17">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -246,27 +189,6 @@ Designed a complete NLP pipeline from raw text to classification. Explored multi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barcaboi17&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=9B72CF"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=barcaboi17&bg_color=0D1117&color=9B72CF&line=6E40C9&point=ffffff&hide_border=true&area=true&area_color=6E40C9"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/barcaboi17/barcaboi17/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
 
 ---
 
@@ -298,29 +220,3 @@ open_to:
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:ronakkashyap128@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ronakkashyap128%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/suraj17singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-suraj17singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/barcaboi17">
-    <img src="https://img.shields.io/badge/GitHub-barcaboi17-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Data is the new oil — but insight is the refinery."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer" width="100%"/>
-</p>
